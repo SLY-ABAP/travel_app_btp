@@ -1,0 +1,34 @@
+@Metadata.layer: #CORE
+
+annotate entity ZC_FE_Travel_001554 with
+
+{
+  @UI.lineItem: [ { position: 10 } ]
+
+  TravelID;
+
+  @UI.lineItem: [ { position: 20 } ]
+  AgencyID;
+
+  @UI.lineItem: [ { position: 30 } ]
+  CustomerID;
+
+  @UI.lineItem: [ { position: 40 } ]
+  BeginDate;
+
+  @UI.lineItem: [ { position: 50 } ]
+  EndDate;
+
+  @UI.lineItem: [ { position: 60 } ]
+  BookingFee;
+
+  @UI.lineItem: [ { position: 70 } ]
+  TotalPrice;
+
+  @UI.lineItem: [ { position: 80, criticality: 'OverallStatusCriticality' } ]
+  @UI.textArrangement: #TEXT_ONLY
+  OverallStatus;
+
+  @UI.lineItem: [ { position: 90 } ]
+  LastChangedAt;
+}
