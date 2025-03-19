@@ -11,9 +11,9 @@
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
     <DDTEXT>10 letters</DDTEXT>
-    <REPTEXT>10 text heading</REPTEXT>
-    <SCRTEXT_S>10 text</SCRTEXT_S>
-    <SCRTEXT_M>10 text medium</SCRTEXT_M>
+    <REPTEXT>10 text Heading</REPTEXT>
+    <SCRTEXT_S>10 txt SHO</SCRTEXT_S>
+    <SCRTEXT_M>10 text Medium</SCRTEXT_M>
     <SCRTEXT_L>10 text Long</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
     <DATATYPE>REF</DATATYPE>
