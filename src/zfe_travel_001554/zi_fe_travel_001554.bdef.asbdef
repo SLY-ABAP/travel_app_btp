@@ -36,9 +36,8 @@ lock master total etag LastChangedAt
       TotalPrice         = TOTAL_PRICE;
       CurrencyCode       = CURRENCY_CODE;
       Description        = DESCRIPTION;
-      OverallStatus      = OVERALL_STATUS;
-      //    OverallStatusCriticality = OverallStatusCriticality;
-      CreatedBy          = CREATED_BY;
+      OverallStatus      = OVERALL_STATUS;  
+        CreatedBy          = CREATED_BY;
       CreatedAt          = CREATED_AT;
       LastChangedBy      = LAST_CHANGED_BY;
       LastChangedAt      = LAST_CHANGED_AT;
