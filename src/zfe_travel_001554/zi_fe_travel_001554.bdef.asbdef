@@ -17,7 +17,6 @@ lock master total etag LastChangedAt
   create;
   update;
   delete;
-
   draft action Edit;
   draft action Activate optimized;
   draft action Discard;
