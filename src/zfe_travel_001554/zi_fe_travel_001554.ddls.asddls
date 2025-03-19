@@ -1,7 +1,5 @@
 @AccessControl.authorizationCheck: #NOT_REQUIRED
-
 @EndUserText.label: 'CDS View forTravel'
-
 @Metadata.allowExtensions: true
 
 define root view entity ZI_FE_Travel_001554
